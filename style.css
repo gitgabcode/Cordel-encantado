@@ -40,7 +40,7 @@ main p {
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
-    background-attachment: fixed;
+    
     height: 100vh;
     position: relative;
     box-shadow: inset 6px 6px 13px 0px rgba(80, 73, 33, 0.541);
@@ -52,7 +52,7 @@ main p {
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
-    background-attachment: fixed;
+     
     height: 100vh;
     position: relative;
     box-shadow: inset 6px 6px 13px 0px rgba(80, 73, 33, 0.527);
